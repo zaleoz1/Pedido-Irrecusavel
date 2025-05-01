@@ -21,7 +21,6 @@ O projeto é composto pelos seguintes arquivos:
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML**: 32.4%
-- **CSS**: 52.9%
 - **JavaScript**: 14.7%
 
 ---
